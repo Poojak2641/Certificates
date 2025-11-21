@@ -4,14 +4,13 @@ This repository contains my completed certification courses. Each certificate is
 ### CERTIFICATES
 
 ### Power BI Certification
-Completed training focused on building dashboards, creating visuals, and performing data modeling in Power BI.
+Building dashboards, creating visuals, and performing data modeling in Power BI.
 Gained hands-on experience with data transformation and interactive reporting.   
 
 [View Certificate](https://github.com/Poojak2641/Certificates/tree/main/PowerBI)
 
 ### SQL Certification
 Learned SQL fundamentals including querying, joins, filtering, and aggregation techniques.
-Applied these concepts to real datasets for data extraction and analysis.  
 
 [View Certificate](https://github.com/Poojak2641/Certificates/tree/main/SQL)
 
