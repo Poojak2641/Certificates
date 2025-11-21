@@ -5,7 +5,7 @@ This repository contains my completed certification courses. Each certificate is
 
 ### 🔹 30-Days Power BI Micro Course (Learn More Pro)
 Completed a comprehensive 30-day Power BI course focused on data visualization, dashboard creation, and analytics using Microsoft Power BI.    
-📄 [View Certificate](./Power%20Bi%20Certificate.png)
+📄 [View Certificate](./tree/main/PowerBI)
 
 ### 🔹 30-Days SQL Micro Course (Learn More Pro)
 Successfully completed an intensive 30-day SQL course covering database querying, data manipulation, and optimization techniques using SQL.
