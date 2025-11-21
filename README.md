@@ -1,4 +1,5 @@
-🎓 My Certifications
+🎓 My Certifications    
+
 This repository contains my completed certification courses. Each certificate is uploaded and viewable below.
 
 ### CERTIFICATES
