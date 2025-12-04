@@ -10,6 +10,8 @@ Gained hands-on experience with data transformation and interactive reporting.
 
 [View Certificate](https://github.com/Poojak2641/Certificates/tree/main/PowerBI)
 
+[View Certificate](https://github.com/Poojak2641/Certificates/blob/main/PowerBI/power%20bi.jpeg)
+
 ### SQL Certification
 Learned SQL fundamentals including querying, joins, filtering, and aggregation techniques.
 
