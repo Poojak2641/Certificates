@@ -14,12 +14,14 @@ Gained hands-on experience with data transformation and interactive reporting.
 
 ### SQL Certification
 Learned SQL fundamentals including querying, joins, filtering, and aggregation techniques.
+[View Certificate](https://github.com/Poojak2641/Certificates/blob/main/SQL/SQL.jpeg)
 
 [View Certificate](https://github.com/Poojak2641/Certificates/tree/main/SQL)
 
 ### Python Certification
 Covered Python basics such as variables, loops, functions, and data structures.
 Practiced data analysis techniques using Python tools and libraries.  
+[View Certificate](https://github.com/Poojak2641/Certificates/blob/main/Python/Python.jpeg)
 
 [View Certificate](https://github.com/Poojak2641/Certificates/tree/main/Python)
 
